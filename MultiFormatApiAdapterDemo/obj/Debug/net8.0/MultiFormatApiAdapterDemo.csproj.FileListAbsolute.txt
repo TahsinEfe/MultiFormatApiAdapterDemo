@@ -1,0 +1,15 @@
+C:\Users\thsnf\OneDrive\Masaüstü\MultiFormatApiAdapterDemo\MultiFormatApiAdapterDemo\obj\Debug\net8.0\MultiFormatApiAdapterDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thsnf\OneDrive\Masaüstü\MultiFormatApiAdapterDemo\MultiFormatApiAdapterDemo\obj\Debug\net8.0\MultiFormatApiAdapterDemo.AssemblyInfoInputs.cache
+C:\Users\thsnf\OneDrive\Masaüstü\MultiFormatApiAdapterDemo\MultiFormatApiAdapterDemo\obj\Debug\net8.0\MultiFormatApiAdapterDemo.AssemblyInfo.cs
+C:\Users\thsnf\OneDrive\Masaüstü\MultiFormatApiAdapterDemo\MultiFormatApiAdapterDemo\obj\Debug\net8.0\MultiFormatApiAdapterDemo.csproj.CoreCompileInputs.cache
+C:\Users\thsnf\OneDrive\Masaüstü\MultiFormatApiAdapterDemo\MultiFormatApiAdapterDemo\obj\Debug\net8.0\MultiFormatApiAdapterDemo.sourcelink.json
+C:\Users\thsnf\OneDrive\Masaüstü\MultiFormatApiAdapterDemo\MultiFormatApiAdapterDemo\bin\Debug\net8.0\MultiFormatApiAdapterDemo.exe
+C:\Users\thsnf\OneDrive\Masaüstü\MultiFormatApiAdapterDemo\MultiFormatApiAdapterDemo\bin\Debug\net8.0\MultiFormatApiAdapterDemo.deps.json
+C:\Users\thsnf\OneDrive\Masaüstü\MultiFormatApiAdapterDemo\MultiFormatApiAdapterDemo\bin\Debug\net8.0\MultiFormatApiAdapterDemo.runtimeconfig.json
+C:\Users\thsnf\OneDrive\Masaüstü\MultiFormatApiAdapterDemo\MultiFormatApiAdapterDemo\bin\Debug\net8.0\MultiFormatApiAdapterDemo.dll
+C:\Users\thsnf\OneDrive\Masaüstü\MultiFormatApiAdapterDemo\MultiFormatApiAdapterDemo\bin\Debug\net8.0\MultiFormatApiAdapterDemo.pdb
+C:\Users\thsnf\OneDrive\Masaüstü\MultiFormatApiAdapterDemo\MultiFormatApiAdapterDemo\obj\Debug\net8.0\MultiFormatApiAdapterDemo.dll
+C:\Users\thsnf\OneDrive\Masaüstü\MultiFormatApiAdapterDemo\MultiFormatApiAdapterDemo\obj\Debug\net8.0\refint\MultiFormatApiAdapterDemo.dll
+C:\Users\thsnf\OneDrive\Masaüstü\MultiFormatApiAdapterDemo\MultiFormatApiAdapterDemo\obj\Debug\net8.0\MultiFormatApiAdapterDemo.pdb
+C:\Users\thsnf\OneDrive\Masaüstü\MultiFormatApiAdapterDemo\MultiFormatApiAdapterDemo\obj\Debug\net8.0\MultiFormatApiAdapterDemo.genruntimeconfig.cache
+C:\Users\thsnf\OneDrive\Masaüstü\MultiFormatApiAdapterDemo\MultiFormatApiAdapterDemo\obj\Debug\net8.0\ref\MultiFormatApiAdapterDemo.dll

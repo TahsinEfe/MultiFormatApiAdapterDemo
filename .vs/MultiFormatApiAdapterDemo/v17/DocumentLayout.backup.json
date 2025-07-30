@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thsnf\\OneDrive\\Masa\u00FCst\u00FC\\MultiFormatApiAdapterDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC878D1-B169-4C93-BA6E-256CB3AB84ED}|MultiFormatApiAdapterDemo\\MultiFormatApiAdapterDemo.csproj|c:\\users\\thsnf\\onedrive\\masa\u00FCst\u00FC\\multiformatapiadapterdemo\\multiformatapiadapterdemo\\services\\jsonpolicyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC878D1-B169-4C93-BA6E-256CB3AB84ED}|MultiFormatApiAdapterDemo\\MultiFormatApiAdapterDemo.csproj|solutionrelative:multiformatapiadapterdemo\\services\\jsonpolicyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC878D1-B169-4C93-BA6E-256CB3AB84ED}|MultiFormatApiAdapterDemo\\MultiFormatApiAdapterDemo.csproj|c:\\users\\thsnf\\onedrive\\masa\u00FCst\u00FC\\multiformatapiadapterdemo\\multiformatapiadapterdemo\\models\\insurancepolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC878D1-B169-4C93-BA6E-256CB3AB84ED}|MultiFormatApiAdapterDemo\\MultiFormatApiAdapterDemo.csproj|solutionrelative:multiformatapiadapterdemo\\models\\insurancepolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC878D1-B169-4C93-BA6E-256CB3AB84ED}|MultiFormatApiAdapterDemo\\MultiFormatApiAdapterDemo.csproj|c:\\users\\thsnf\\onedrive\\masa\u00FCst\u00FC\\multiformatapiadapterdemo\\multiformatapiadapterdemo\\adapters\\policyadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC878D1-B169-4C93-BA6E-256CB3AB84ED}|MultiFormatApiAdapterDemo\\MultiFormatApiAdapterDemo.csproj|solutionrelative:multiformatapiadapterdemo\\adapters\\policyadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC878D1-B169-4C93-BA6E-256CB3AB84ED}|MultiFormatApiAdapterDemo\\MultiFormatApiAdapterDemo.csproj|c:\\users\\thsnf\\onedrive\\masa\u00FCst\u00FC\\multiformatapiadapterdemo\\multiformatapiadapterdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC878D1-B169-4C93-BA6E-256CB3AB84ED}|MultiFormatApiAdapterDemo\\MultiFormatApiAdapterDemo.csproj|solutionrelative:multiformatapiadapterdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC878D1-B169-4C93-BA6E-256CB3AB84ED}|MultiFormatApiAdapterDemo\\MultiFormatApiAdapterDemo.csproj|c:\\users\\thsnf\\onedrive\\masa\u00FCst\u00FC\\multiformatapiadapterdemo\\multiformatapiadapterdemo\\services\\policysenderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC878D1-B169-4C93-BA6E-256CB3AB84ED}|MultiFormatApiAdapterDemo\\MultiFormatApiAdapterDemo.csproj|solutionrelative:multiformatapiadapterdemo\\services\\policysenderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC878D1-B169-4C93-BA6E-256CB3AB84ED}|MultiFormatApiAdapterDemo\\MultiFormatApiAdapterDemo.csproj|c:\\users\\thsnf\\onedrive\\masa\u00FCst\u00FC\\multiformatapiadapterdemo\\multiformatapiadapterdemo\\services\\xmlpolicyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC878D1-B169-4C93-BA6E-256CB3AB84ED}|MultiFormatApiAdapterDemo\\MultiFormatApiAdapterDemo.csproj|solutionrelative:multiformatapiadapterdemo\\services\\xmlpolicyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InsurancePolicy.cs",
+              "DocumentMoniker": "C:\\Users\\thsnf\\OneDrive\\Masa\u00FCst\u00FC\\MultiFormatApiAdapterDemo\\MultiFormatApiAdapterDemo\\Models\\InsurancePolicy.cs",
+              "RelativeDocumentMoniker": "MultiFormatApiAdapterDemo\\Models\\InsurancePolicy.cs",
+              "ToolTip": "C:\\Users\\thsnf\\OneDrive\\Masa\u00FCst\u00FC\\MultiFormatApiAdapterDemo\\MultiFormatApiAdapterDemo\\Models\\InsurancePolicy.cs",
+              "RelativeToolTip": "MultiFormatApiAdapterDemo\\Models\\InsurancePolicy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T09:57:13.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PolicySenderService.cs",
+              "DocumentMoniker": "C:\\Users\\thsnf\\OneDrive\\Masa\u00FCst\u00FC\\MultiFormatApiAdapterDemo\\MultiFormatApiAdapterDemo\\Services\\PolicySenderService.cs",
+              "RelativeDocumentMoniker": "MultiFormatApiAdapterDemo\\Services\\PolicySenderService.cs",
+              "ToolTip": "C:\\Users\\thsnf\\OneDrive\\Masa\u00FCst\u00FC\\MultiFormatApiAdapterDemo\\MultiFormatApiAdapterDemo\\Services\\PolicySenderService.cs",
+              "RelativeToolTip": "MultiFormatApiAdapterDemo\\Services\\PolicySenderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T09:31:45.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PolicyAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\thsnf\\OneDrive\\Masa\u00FCst\u00FC\\MultiFormatApiAdapterDemo\\MultiFormatApiAdapterDemo\\Adapters\\PolicyAdapter.cs",
+              "RelativeDocumentMoniker": "MultiFormatApiAdapterDemo\\Adapters\\PolicyAdapter.cs",
+              "ToolTip": "C:\\Users\\thsnf\\OneDrive\\Masa\u00FCst\u00FC\\MultiFormatApiAdapterDemo\\MultiFormatApiAdapterDemo\\Adapters\\PolicyAdapter.cs",
+              "RelativeToolTip": "MultiFormatApiAdapterDemo\\Adapters\\PolicyAdapter.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T09:31:19.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JsonPolicyService.cs",
+              "DocumentMoniker": "C:\\Users\\thsnf\\OneDrive\\Masa\u00FCst\u00FC\\MultiFormatApiAdapterDemo\\MultiFormatApiAdapterDemo\\Services\\JsonPolicyService.cs",
+              "RelativeDocumentMoniker": "MultiFormatApiAdapterDemo\\Services\\JsonPolicyService.cs",
+              "ToolTip": "C:\\Users\\thsnf\\OneDrive\\Masa\u00FCst\u00FC\\MultiFormatApiAdapterDemo\\MultiFormatApiAdapterDemo\\Services\\JsonPolicyService.cs",
+              "RelativeToolTip": "MultiFormatApiAdapterDemo\\Services\\JsonPolicyService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T09:31:28.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "XmlPolicyService.cs",
+              "DocumentMoniker": "C:\\Users\\thsnf\\OneDrive\\Masa\u00FCst\u00FC\\MultiFormatApiAdapterDemo\\MultiFormatApiAdapterDemo\\Services\\XmlPolicyService.cs",
+              "RelativeDocumentMoniker": "MultiFormatApiAdapterDemo\\Services\\XmlPolicyService.cs",
+              "ToolTip": "C:\\Users\\thsnf\\OneDrive\\Masa\u00FCst\u00FC\\MultiFormatApiAdapterDemo\\MultiFormatApiAdapterDemo\\Services\\XmlPolicyService.cs",
+              "RelativeToolTip": "MultiFormatApiAdapterDemo\\Services\\XmlPolicyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T09:31:38.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thsnf\\OneDrive\\Masa\u00FCst\u00FC\\MultiFormatApiAdapterDemo\\MultiFormatApiAdapterDemo\\Program.cs",
+              "RelativeDocumentMoniker": "MultiFormatApiAdapterDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\thsnf\\OneDrive\\Masa\u00FCst\u00FC\\MultiFormatApiAdapterDemo\\MultiFormatApiAdapterDemo\\Program.cs",
+              "RelativeToolTip": "MultiFormatApiAdapterDemo\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvwcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T09:29:54.955Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
